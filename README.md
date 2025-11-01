@@ -67,7 +67,7 @@ brew install rabbitmq
 ```bash
 # Clone the repository (or download the files)
 git clone <repository-url>
-cd distributed-test-system-ororatech
+cd distributed-test-system
 ````
 > Make sure Docker Desktop is running in the background!
 
